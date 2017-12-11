@@ -1,0 +1,39 @@
+[
+  {
+    "company" : "Hot Tomato",
+    "discount": "$9.50 nett Student Meal!",
+    "picture": "http://thesmartlocal.com/images/easyblog_images/1543/630xNxSteak.jpg.pagespeed.ic.ytB3hxYgWu.webp"
+
+  }
+
+,
+  {
+    "company" : "Jane Thai",
+    "discount": "$9.00 nett Thai Student Meal",
+    "picture": "https://sethlui.com/wp-content/uploads/2016/10/IMG_1118.jpg"
+  }
+,
+{
+	"company" : "Mad Jack",
+	"discount": "$6.45 (Before GST Student Meals)",
+	"picture": "http://cdn4.greatdeals.com.sg/wp-content/uploads/2008/09/promo_studentmeal.jpg"
+
+}
+,
+{
+	"company" : "KFC",
+	"discount": "$5 Special Student Deals",
+	"picture": "http://cdn.greatdeals.com.sg/wp-content/uploads/2014/01/10074005/kfc-student-special-jan-2014-900x607.jpg"
+
+}
+,
+
+{
+	"company" : "Central Thai Singapore",
+	"discount": "$4.90++ you can choose a main & a drink ",
+	"picture": "https://s3-ap-southeast-1.amazonaws.com/asset1.gotomalls.com/uploads/news/translation/2017/10/LSYK6ct5IIWQtNKF-student-meal-promotion-at-central-thai-1507382562_1.jpg"
+
+}
+,
+
+]
